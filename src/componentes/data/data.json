@@ -1,0 +1,721 @@
+[
+  {
+    "id": 1,
+    "nombre": "Fatal Frame",
+    "genero": "Terror",
+    "descripcion": "Uno de los mejores juegos de terror sobre lugares abandonados y fantasmas",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1732190/header.jpg?t=1776994734",
+    "enlace": "https://fatal-frame-maiden-of-black-water.softonic.com/"
+  },
+  {
+    "id": 2,
+    "nombre": "Outlast",
+    "genero": "Terror",
+    "descripcion": "Un clasico, sobre un periodista y un gran manicomio abandonado por el gobierno",
+    "imagen": "https://image.api.playstation.com/vulcan/coal-image-prod/cdn/molt/ALL/201905/MOLT2276_ZZ/rUhQGewc1LDM3PMCNg.png?w=440",
+    "enlace": "https://store.steampowered.com/app/238320/Outlast/"
+  },
+  {
+    "id": 3,
+    "nombre": "Cry of Fear",
+    "genero": "Terror",
+    "descripcion": "Un juego no my conocido por la comunidad, pero con reseñas muy altas",
+    "imagen": "https://m.media-amazon.com/images/M/MV5BY2NhN2Q3OTAtOGQxYi00YWM4LWJiZjUtNjI0M2NjYTQ1ODhlXkEyXkFqcGc@._V1_.jpg",
+    "enlace": "https://store.steampowered.com/app/223710/Cry_of_Fear/"
+  },
+  {
+    "id": 4,
+    "nombre": "Five Nights at Freddy's",
+    "genero": "Terror",
+    "descripcion": "Sobrevive durante la noche en una pizzería llena de misterios y terror.",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmyjyAZZ80k6WrXoeVq-5i0xSEs9jFhj3VW12soE6dw&s=10",
+    "enlace": "https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/"
+  },
+  {
+    "id": 5,
+    "nombre": "Alien: Isolation",
+    "genero": "Terror",
+    "descripcion": "Es un aclamado videojuego de terror, supervivencia y sigilo en primera persona ",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQypxE_OPfGA8ozBsktGh5Wcx4zHVJ_3SjxX7RLTPMHrA&s=10",
+    "enlace": "https://store.steampowered.com/app/214490/Alien_Isolation/?l=spanish"
+  },
+  {
+    "id": 6,
+    "nombre": "Resident Evil",
+    "genero": "Terror",
+    "descripcion": "Es un icónico videojuego de survival horror desarrollado por Capcom.",
+    "imagen": "https://media.revistagq.com/photos/5efedc2009f9a6fc5dffb3b4/1:1/w_720,h_720,c_limit/Resident-Evil-4-Remake.jpg",
+    "enlace": "https://store.steampowered.com/app/304240/Resident_Evil/?l=spanish"
+  },
+  {
+    "id": 7,
+    "nombre": "Dead by Daylight",
+    "genero": "Terror",
+    "descripcion": "Es un videojuego de terror y supervivencia multijugador asimétrico de uno contra cuatro.",
+    "imagen": "https://cdn1.epicgames.com/spt-assets/2b2299be8ae84d679d4dc57c55af1510/dead-by-daylight-6hqhj.jpg",
+    "enlace": "https://deadbydaylight.com/"
+  },
+  {
+    "id": 8,
+    "nombre": "Until Dawn",
+    "genero": "Terror",
+    "descripcion": "Es un videojuego de terror narrativo y drama interactivo donde ocho jóvenes intentan sobrevivir a una noche terrorífica en una montaña aislada ",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2172010/capsule_616x353.jpg?t=1750959555",
+    "enlace": "https://store.steampowered.com/app/2172010/Until_Dawn/?l=spanish"
+  },
+  {
+    "id": 9,
+    "nombre": "God of War",
+    "genero": "Accion",
+    "descripcion": "Enfrenta feroces criaturas mitológicas y dioses en un viaje épico de combate visceral y redención.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1593500/God_of_War/"
+  },
+  {
+    "id": 10,
+    "nombre": "Devil May Cry 5",
+    "genero": "Accion",
+    "descripcion": "Desata deslumbrantes combos con espadas y pistolas para frenar una invasión demoníaca urbana.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/601150/header.jpg",
+    "enlace": "https://store.steampowered.com/app/601150/Devil_May_Cry_5/"
+  },
+  {
+    "id": 11,
+    "nombre": "Bayonetta",
+    "genero": "Accion",
+    "descripcion": "Utiliza poderes mágicos y armas de fuego integradas para derrotar hordas de ángeles a gran velocidad.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/460790/header.jpg",
+    "enlace": "https://store.steampowered.com/app/460790/Bayonetta/"
+  },
+  {
+    "id": 12,
+    "nombre": "Sekiro: Shadows Die Twice",
+    "genero": "Accion",
+    "descripcion": "Domina el arte del parry y el sigilo en un Japón feudal plagado de enemigos letales.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "enlace": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice__GOTY_Edition/"
+  },
+  {
+    "id": 13,
+    "nombre": "Metal Gear Rising: Revengeance",
+    "genero": "Accion",
+    "descripcion": "Corta a tus rivales con precisión molecular encarnando a un ninja cibernético imparable.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/235460/header.jpg",
+    "enlace": "https://store.steampowered.com/app/235460/Metal_Gear_Rising_Revengeance/"
+  },
+  {
+    "id": 14,
+    "nombre": "Batman: Arkham Knight",
+    "genero": "Accion",
+    "descripcion": "Utiliza artilugios de alta tecnología y combate cuerpo a cuerpo para proteger una ciudad bajo asedio.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/208650/header.jpg",
+    "enlace": "https://store.steampowered.com/app/208650/Batman_Arkham_Knight/"
+  },
+  {
+    "id": 15,
+    "nombre": "Ghost of Tsushima",
+    "genero": "Accion",
+    "descripcion": "Protege una isla feudal utilizando el camino del samurái o tácticas de sigilo contra invasores.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2215430/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2215430/Ghost_of_Tsushima_DIRECTORS_CUT/"
+  },
+  {
+    "id": 16,
+    "nombre": "Sifu",
+    "genero": "Accion",
+    "descripcion": "Perfecciona técnicas de kung-fu combatiendo múltiples enemigos mientras envejeces cada vez que caes derrotado.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2138710/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2138710/Sifu/"
+  },
+  {
+    "id": 17,
+    "nombre": "Astral Chain",
+    "genero": "Accion",
+    "descripcion": "Controla a dos personajes simultáneamente para resolver crímenes y vencer criaturas interdimensionales.",
+    "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1200,h_675,f_auto,q_auto/v1/Ncom/en_US/games/switch/a/astral-chain-switch/hero",
+    "enlace": "https://www.nintendo.com/us/store/products/astral-chain-switch/"
+  },
+  {
+    "id": 18,
+    "nombre": "DMC: Devil May Cry",
+    "genero": "Accion",
+    "descripcion": "Enfréntate a demonios en un mundo paralelo cambiante con un estilo ágil y agresivo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/220440/header.jpg",
+    "enlace": "https://store.steampowered.com/app/220440/DmC_Devil_May_Cry/"
+  },
+  {
+    "id": 19,
+    "nombre": "The Legend of Zelda",
+    "genero": "Aventura",
+    "descripcion": "Explora un enorme mundo lleno de secretos, enemigos y aventuras.",
+    "imagen": "https://www.nintendo.com/eu/media/images/other_22/character_hubs/the_legend_of_zelda/16x9_Other_TheLegendOfZelda_Hub_image1280w.jpg",
+    "enlace": "https://www.nintendo.com/es-es/Juegos/Explorar-el-catalogo/Portal-de-personajes/Portal-para-The-Legend-of-Zelda/Portal-para-The-Legend-of-Zelda-627606.html?srsltid=AfmBOopzqDflwPaMIqWklUc77E2yDNqwSDETkBxEyuLrgDLyvl8RgcvW"
+  },
+  {
+    "id": 20,
+    "nombre": "Assassin's Creed",
+    "genero": "Aventura",
+    "descripcion": "Un videojuego de acción, aventura y sigilo en mundo abierto.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1517290/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1517290/Assassins_Creed_Valhalla/"
+  },
+  {
+    "id": 21,
+    "nombre": "Outer Wilds",
+    "genero": "Aventura",
+    "descripcion": "Explora un sistema solar atrapado en un bucle temporal, descifrando ruinas alienígenas y resolviendo misterios en el espacio antes de que tu estrella explote.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/753640/header.jpg",
+    "enlace": "https://store.steampowered.com/app/753640/Outer_Wilds/"
+  },
+  {
+    "id": 22,
+    "nombre": "Terraria",
+    "genero": "Aventura",
+    "descripcion": "Un videojuego de acción, aventura y mundo abierto en 2D con elementos de construcción y supervivencia.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "enlace": "https://store.steampowered.com/app/105600/Terraria/"
+  },
+  {
+    "id": 23,
+    "nombre": "Fallout",
+    "genero": "Aventura",
+    "descripcion": "Aclamada franquicia de medios ambientada en un mundo postapocalíptico y retrofuturista.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+    "enlace": "https://store.steampowered.com/app/377160/Fallout_4/"
+  },
+  {
+    "id": 24,
+    "nombre": "God of War",
+    "genero": "Aventura",
+    "descripcion": "Famosa franquicia de videojuegos de acción y aventura que sigue la vida de Kratos, un guerrero espartano conocido como el Fantasma de Esparta.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1593500/God_of_War/"
+  },
+  {
+    "id": 25,
+    "nombre": "The Witcher",
+    "genero": "Aventura",
+    "descripcion": "Saga de fantasía oscura creada por el escritor polaco Andrzej Sapkowski que sigue las aventuras de Geralt de Rivia, un cazador de monstruos mutado.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "enlace": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+  },
+  {
+    "id": 26,
+    "nombre": "Elden Ring",
+    "genero": "Aventura",
+    "descripcion": "Un aclamado videojuego de rol de acción en mundo abierto.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+  },
+  {
+    "id": 27,
+    "nombre": "DOOM",
+    "genero": "Shooters",
+    "descripcion": "Enfréntate a hordas de enemigos en una intensa aventura de acción.",
+    "imagen": "https://image.api.playstation.com/vulcan/ap/rnd/202501/1405/c60ddc308710d6bd42098498fe645703dcea78aaabcb5f4d.jpg"
+  },
+  {
+    "id": 28,
+    "nombre": "Call of Duty",
+    "genero": "Shooters",
+    "descripcion": "Experimenta intensos combates militares y misiones tácticas en un shooter de acción frenética.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1938090/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1938090/Call_of_Duty/"
+  },
+  {
+    "id": 29,
+    "nombre": "Halo",
+    "genero": "Shooters",
+    "descripcion": "Lucha contra amenazas alienígenas y explora mundos épicos en la saga del Jefe Maestro.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/976730/header.jpg",
+    "enlace": "https://store.steampowered.com/app/976730/Halo_The_Master_Chief_Collection/"
+  },
+  {
+    "id": 30,
+    "nombre": "Counter-Strike",
+    "genero": "Shooters",
+    "descripcion": "Enfréntate en combates tácticos por equipos entre terroristas y antiterroristas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "enlace": "https://store.steampowered.com/app/730/CounterStrike_2/"
+  },
+  {
+    "id": 31,
+    "nombre": "Hitman",
+    "genero": "Acción / Sigilo",
+    "descripcion": "Asume el rol del Agente 47 y ejecuta contratos de asesinato con precisión y sigilo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/"
+  },
+  {
+    "id": 32,
+    "nombre": "Tomb Raider",
+    "genero": "Aventura / Acción",
+    "descripcion": "Acompaña a Lara Croft en el origen de sus aventuras explorando ruinas y tumbas peligrosas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/header.jpg",
+    "enlace": "https://store.steampowered.com/app/203160/Tomb_Raider/"
+  },
+  {
+    "id": 33,
+    "nombre": "Metro 2033",
+    "genero": "Shooters / Supervivencia",
+    "descripcion": "Sobrevive en los túneles del metro de Moscú tras un apocalipsis nuclear.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg",
+    "enlace": "https://store.steampowered.com/app/286690/Metro_2033_Redux/"
+  },
+  {
+    "id": 34,
+    "nombre": "Gears of War",
+    "genero": "Shooters / Acción",
+    "descripcion": "Lidera la resistencia humana contra la amenaza de los Locust en cruentas batallas tácticas.",
+    "imagen": "https://store-images.s-microsoft.com/image/apps.54452.13886975253810132.89437edb-34a1-4d13-9a3b-252a121bf171.cb217bd2-3714-4eb9-bfdf-34c9826a7f92",
+    "enlace": "https://www.xbox.com/es-ES/games/gears-of-war-ultimate-edition"
+  },
+  {
+    "id": 35,
+    "nombre": "Hitman",
+    "genero": "Sigilo / Acción",
+    "descripcion": "Popular serie de videojuegos de acción, sigilo y rompecabezas táctico.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1659040/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1659040/HITMAN_World_of_Assassination/"
+  },
+  {
+    "id": 36,
+    "nombre": "Tomb Raider",
+    "genero": "Aventura / Acción",
+    "descripcion": "Famosa franquicia de videojuegos de acción y aventura protagonizada por la arqueóloga británica Lara Croft.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/203160/header.jpg",
+    "enlace": "https://store.steampowered.com/app/203160/Tomb_Raider/"
+  },
+  {
+    "id": 37,
+    "nombre": "Metro 2033",
+    "genero": "Shooters",
+    "descripcion": "Juego de disparos en primera persona y terror de supervivencia ambientado en los túneles del metro de Moscú tras un holocausto nuclear.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/286690/header.jpg",
+    "enlace": "https://store.steampowered.com/app/286690/Metro_2033_Redux/"
+  },
+  {
+    "id": 38,
+    "nombre": "Gears of War",
+    "genero": "Shooters",
+    "descripcion": "Influyente videojuego de disparos en tercera persona y acción táctica ambientado en un oscuro mundo postapocalíptico.",
+    "imagen": "https://live.cdn.gearsofwar.com/gearsofwar/sites/3/2026/04/Gears5_thumbnail-69d6c6e71ebee.png",
+    "enlace": "https://www.xbox.com/es-ES/games/gears-of-war-ultimate-edition"
+  },
+  {
+    "id": 39,
+    "nombre": "Team Fortress 2",
+    "genero": "Shooters",
+    "descripcion": "Compite en combates multijugador por equipos encarnando a clases únicas con habilidades y personalidades explosivas en mapas llenos de acción.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+    "enlace": "https://store.steampowered.com/app/440/Team_Fortress_2/"
+  },
+  {
+    "id": 40,
+    "nombre": "Marvel Rivals",
+    "genero": "Shooters",
+    "descripcion": "Enfrenta feroces batallas por equipos utilizando a héroes y villanos del multiverso de Marvel, combinando sus poderes en escenarios totalmente destruibles.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2767030/Marvel_Rivals/"
+  },
+  {
+    "id": 41,
+    "nombre": "Age of Empires II: Definitive Edition",
+    "genero": "Estrategia",
+    "descripcion": "Dirige grandes civilizaciones a lo largo de las eras, gestionando recursos y liderando ejércitos.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1054500/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1054500/Age_of_Empires_II_Definitive_Edition/"
+  },
+  {
+    "id": 42,
+    "nombre": "StarCraft II",
+    "genero": "Estrategia",
+    "descripcion": "Comanda una de tres razas únicas en encarnizadas batallas intergalácticas en tiempo real.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2388620/header.jpg",
+    "enlace": "https://starcraft2.blizzard.com/"
+  },
+  {
+    "id": 43,
+    "nombre": "Sid Meier's Civilization VI",
+    "genero": "Estrategia",
+    "descripcion": "Funda un imperio desde la Edad de Piedra y llévalo a la era espacial mediante diplomacia o guerra.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+    "enlace": "https://store.steampowered.com/app/289070/Sid_Meiers_Civilization_VI/"
+  },
+  {
+    "id": 44,
+    "nombre": "Total War: Warhammer III",
+    "genero": "Estrategia",
+    "descripcion": "Moviliza ejércitos masivos de fantasía en batallas tácticas multitudinarias por el control del mundo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1142710/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1142710/Total_War_WARHAMMER_III/"
+  },
+  {
+    "id": 45,
+    "nombre": "XCOM 2",
+    "genero": "Estrategia",
+    "descripcion": "Lidera una resistencia paramilitar en misiones por turnos para recuperar la Tierra del dominio alienígena.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/268500/header.jpg",
+    "enlace": "https://store.steampowered.com/app/268500/XCOM_2/"
+  },
+  {
+    "id": 46,
+    "nombre": "Company of Heroes 3",
+    "genero": "Estrategia",
+    "descripcion": "Planea maniobras militares complejas y combate en frentes históricos durante la Segunda Guerra Mundial.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1677280/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1677280/Company_of_Heroes_3/"
+  },
+  {
+    "id": 47,
+    "nombre": "Command & Conquer: Red Alert 2",
+    "genero": "Estrategia",
+    "descripcion": "Construye bases militares y despliega tropas en una realidad alternativa de guerra global.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2229850/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2229850/Command__Conquer_Red_Alert_2_and_Yuris_Revenge/"
+  },
+  {
+    "id": 48,
+    "nombre": "Crusader Kings III",
+    "genero": "Estrategia",
+    "descripcion": "Gestiona una dinastía medieval negociando alianzas, conspiraciones y conquistas a lo largo de generaciones.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1158310/Crusader_Kings_III/"
+  },
+  {
+    "id": 49,
+    "nombre": "Stellaris",
+    "genero": "Estrategia",
+    "descripcion": "Explora galaxias desconocidas, coloniza planetas y gestiona la política de un imperio estelar.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/281990/header.jpg",
+    "enlace": "https://store.steampowered.com/app/281990/Stellaris/"
+  },
+  {
+    "id": 50,
+    "nombre": "Warcraft III: Reforged",
+    "genero": "Estrategia",
+    "descripcion": "Comanda héroes legendarios y ejércitos en un conflicto fantástico lleno de magia y estrategia.",
+    "imagen": "https://i.ytimg.com/vi/fPp-3VsvBV0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCzIWEBcpSxCyg_8FITN3f2MHINmw",
+    "enlace": "https://store.steampowered.com/app/2807980/Warcraft_III_Reforged/"
+  },
+  {
+    "id": 51,
+    "nombre": "Gran Turismo 7",
+    "genero": "Deportes",
+    "descripcion": "Pone a prueba tu precisión al volante conduciendo cientos de vehículos en circuitos de alta competición.",
+    "imagen": "https://www.sigmaintegrale.com/cdn/shop/articles/Grand_Turismo_7_13250949-199e-4669-bd0d-55bcd43add2d.png?v=1740583176&width=2048",
+    "enlace": "https://www.playstation.com/es-es/games/gran-turismo-7/"
+  },
+  {
+    "id": 52,
+    "nombre": "EA Sports FC 24",
+    "genero": "Deportes",
+    "descripcion": "Compite en los torneos de fútbol más importantes del mundo con equipos y jugadores reales.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2195250/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/"
+  },
+  {
+    "id": 53,
+    "nombre": "Forza Horizon 5",
+    "genero": "Deportes",
+    "descripcion": "Recorre un vibrante mundo abierto conduciendo cientos de autos a través de paisajes variados.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1551360/Forza_Horizon_5/"
+  },
+  {
+    "id": 54,
+    "nombre": "NBA 2K24",
+    "genero": "Deportes",
+    "descripcion": "Vive la experiencia completa del baloncesto profesional en partidos de gran realismo visual y táctico.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2338770/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2338770/NBA_2K24/"
+  },
+  {
+    "id": 55,
+    "nombre": "Need for Speed: Most Wanted",
+    "genero": "Deportes",
+    "descripcion": "Escapa de intensas persecuciones policiales y domina las carreras callejeras clandestinas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1262560/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1262560/Need_for_Speed_Most_Wanted/"
+  },
+  {
+    "id": 56,
+    "nombre": "Rocket League",
+    "genero": "Deportes",
+    "descripcion": "Compite en frenéticos partidos de fútbol manejando vehículos propulsados por cohetes.",
+    "imagen": "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_RocketLeague_S16.jpg",
+    "enlace": "https://store.epicgames.com/es-ES/p/rocket-league"
+  },
+  {
+    "id": 57,
+    "nombre": "F1 23",
+    "genero": "Deportes",
+    "descripcion": "Experimenta la velocidad y estrategia al mando de los monoplazas oficiales de la Fórmula 1.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2108330/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2108330/F1_23/"
+  },
+  {
+    "id": 58,
+    "nombre": "PGA Tour 2K23",
+    "genero": "Deportes",
+    "descripcion": "Domina los campos de golf más reconocidos del mundo controlando la precisión de cada golpe.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1588010/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1588010/PGA_TOUR_2K23/"
+  },
+  {
+    "id": 59,
+    "nombre": "Tony Hawk's Pro Skater 1 + 2",
+    "genero": "Deportes",
+    "descripcion": "Encadena trucos y acrobacias sobre la patineta en escenarios urbanos llenos de rampas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/2395210/header.jpg",
+    "enlace": "https://store.steampowered.com/app/2395210/Tony_Hawks_Pro_Skater_1__2/"
+  },
+  {
+    "id": 60,
+    "nombre": "WWE 2K23",
+    "genero": "Deportes",
+    "descripcion": "Salta al cuadrilátero para controlar a las mayores superestrellas de la lucha libre profesional.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1942660/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1942660/WWE_2K23/"
+  },
+  {
+    "id": 61,
+    "nombre": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "descripcion": "Explora un enorme mundo lleno de secretos, enemigos y aventuras mientras buscas a tu hija adoptiva.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "enlace": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/"
+  },
+  {
+    "id": 62,
+    "nombre": "Elden Ring",
+    "genero": "RPG",
+    "descripcion": "Recorre un vasto e implacable reino combatiendo criaturas temibles para restaurar el Círculo de Elden.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1245620/ELDEN_RING/"
+  },
+  {
+    "id": 63,
+    "nombre": "The Elder Scrolls V: Skyrim",
+    "genero": "RPG",
+    "descripcion": "Camina libremente por tierras heladas resolviendo misiones, aprendiendo magia y enfrentando dragones.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+    "enlace": "https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/"
+  },
+  {
+    "id": 64,
+    "nombre": "Baldur's Gate 3",
+    "genero": "RPG",
+    "descripcion": "Vive una profunda aventura táctica donde cada decisión moldea el destino del mundo y de tus compañeros.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/"
+  },
+  {
+    "id": 65,
+    "nombre": "Final Fantasy VII Remake",
+    "genero": "RPG",
+    "descripcion": "Acompaña a un grupo de rebeldes en una metrópolis futurista para combatir a una corporación opresora.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1462040/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1462040/FINAL_FANTASY_VII_REMAKE_INTERGRADE/"
+  },
+  {
+    "id": 66,
+    "nombre": "Persona 5 Royal",
+    "genero": "RPG",
+    "descripcion": "Equilibra la vida escolar diaria con la exploración de mazmorras surrealistas para reformar corazones corruptos.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1687950/Persona_5_Royal/"
+  },
+  {
+    "id": 67,
+    "nombre": "Fallout 4",
+    "genero": "RPG",
+    "descripcion": "Sobrevive en un páramo posnuclear recolectando recursos, construyendo refugios y buscando a tu hijo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+    "enlace": "https://store.steampowered.com/app/377160/Fallout_4/"
+  },
+  {
+    "id": 68,
+    "nombre": "Cyberpunk 2077",
+    "genero": "RPG",
+    "descripcion": "Ábrete paso por una megaciudad futurista repleta de tecnología, implantes cibernéticos y bandas peligrosas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/"
+  },
+  {
+    "id": 69,
+    "nombre": "Dragon Age: Inquisition",
+    "genero": "RPG",
+    "descripcion": "Lidera una organización para erradicar demonios y salvar un continente sumido en el caos político.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222690/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1222690/Dragon_Age_Inquisition/"
+  },
+  {
+    "id": 70,
+    "nombre": "Monster Hunter: World",
+    "genero": "RPG",
+    "descripcion": "Rastrea y caza imponentes bestias en ecosistemas vivos para fabricar mejor armamento.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
+    "enlace": "https://store.steampowered.com/app/582010/Monster_Hunter_World/"
+  },
+  {
+    "id": 71,
+    "nombre": "The Sims 4",
+    "genero": "Simulacion",
+    "descripcion": "Diseña personas, construye sus hogares y controla sus vidas cotidianas en un entorno sin límites fijos.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1222670/The_Sims_4/"
+  },
+  {
+    "id": 72,
+    "nombre": "Microsoft Flight Simulator",
+    "genero": "Simulacion",
+    "descripcion": "Pilota aeronaves altamente detalladas en un planeta reproducido a escala real.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1250410/Microsoft_Flight_Simulator_40th_Anniversary_Edition/"
+  },
+  {
+    "id": 73,
+    "nombre": "Cities: Skylines",
+    "genero": "Simulacion",
+    "descripcion": "Planea, gestiona y expande una metrópolis moderna resolviendo problemas de tráfico y servicios.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg",
+    "enlace": "https://store.steampowered.com/app/255710/Cities_Skylines/"
+  },
+  {
+    "id": 74,
+    "nombre": "Euro Truck Simulator 2",
+    "genero": "Simulacion",
+    "descripcion": "Transporta mercancías por carreteras europeas administrando tu propia empresa de logística.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/header.jpg",
+    "enlace": "https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/"
+  },
+  {
+    "id": 75,
+    "nombre": "Stardew Valley",
+    "genero": "Simulacion",
+    "descripcion": "Hereda una vieja granja para cultivar, criar animales y formar lazos con los vecinos del pueblo.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+    "enlace": "https://store.steampowered.com/app/413150/Stardew_Valley/"
+  },
+  {
+    "id": 76,
+    "nombre": "Farming Simulator 22",
+    "genero": "Simulacion",
+    "descripcion": "Opera maquinaria agrícola real para cosechar cultivos y gestionar una granja industrial.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1248130/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1248130/Farming_Simulator_22/"
+  },
+  {
+    "id": 77,
+    "nombre": "Planet Zoo",
+    "genero": "Simulacion",
+    "descripcion": "Construye y administra un parque zoológico garantizando el bienestar de especies animales hiperrealistas.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/703080/header.jpg",
+    "enlace": "https://store.steampowered.com/app/703080/Planet_Zoo/"
+  },
+  {
+    "id": 78,
+    "nombre": "Kerbal Space Program",
+    "genero": "Simulacion",
+    "descripcion": "Diseña naves espaciales funcionales aplicando física real para explorar un sistema planetario.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/220200/header.jpg",
+    "enlace": "https://store.steampowered.com/app/220200/Kerbal_Space_Program/"
+  },
+  {
+    "id": 79,
+    "nombre": "Two Point Hospital",
+    "genero": "Simulacion",
+    "descripcion": "Diseña hospitales alocados y cura enfermedades absurdas en una divertida gestión sanitaria.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/535930/header.jpg",
+    "enlace": "https://store.steampowered.com/app/535930/Two_Point_Hospital/"
+  },
+  {
+    "id": 80,
+    "nombre": "House Flipper",
+    "genero": "Simulacion",
+    "descripcion": "Compra propiedades deterioradas, repara sus desperfectos y rediseña interiores para venderlas con beneficio.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/613100/header.jpg",
+    "enlace": "https://store.steampowered.com/app/613100/House_Flipper/"
+  },
+  {
+    "id": 81,
+    "nombre": "Portal 2",
+    "genero": "Logica",
+    "descripcion": "Resuelve acertijos complejos utilizando una arma capaz de abrir portales de teletransportación.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+    "enlace": "https://store.steampowered.com/app/620/Portal_2/"
+  },
+  {
+    "id": 82,
+    "nombre": "Tetris Effect",
+    "genero": "Logica",
+    "descripcion": "Conecta piezas geométricas al ritmo de la música y efectos visuales deslumbrantes.",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1003590/11d98bbb08ca8e16d015ae4a40b60920ae8dbe36/header.jpg?t=1774036904",
+    "enlace": "https://store.steampowered.com/app/1003590/Tetris_Effect_Connected/"
+  },
+  {
+    "id": 83,
+    "nombre": "The Witness",
+    "genero": "Logica",
+    "descripcion": "Investiga una isla solitaria resolviendo cientos de paneles con acertijos de reglas evolutivas.",
+    "imagen": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/capsule_616x353.jpg?t=1720810823",
+    "enlace": "https://store.steampowered.com/app/257510/The_Witness/"
+  },
+  {
+    "id": 84,
+    "nombre": "Baba Is You",
+    "genero": "Logica",
+    "descripcion": "Modifica las reglas del propio juego manipulando bloques de texto para resolver cada nivel.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/736260/header.jpg",
+    "enlace": "https://store.steampowered.com/app/736260/Baba_Is_You/"
+  },
+  {
+    "id": 85,
+    "nombre": "Captain Toad: Treasure Tracker",
+    "genero": "Logica",
+    "descripcion": "Gira la cámara para guiar a un pequeño explorador a través de dioramas llenos de acertijos.",
+    "imagen": "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1200,h_675,f_auto,q_auto/v1/Ncom/en_US/games/switch/c/captain-toad-treasure-tracker-switch/hero",
+    "enlace": "https://www.nintendo.com/us/store/products/captain-toad-treasure-tracker-switch/"
+  },
+  {
+    "id": 86,
+    "nombre": "Unpacking",
+    "genero": "Logica",
+    "descripcion": "Descubre la historia de un personaje mientras desempacas sus pertenencias e instalas sus habitaciones.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1135690/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1135690/Unpacking/"
+  },
+  {
+    "id": 87,
+    "nombre": "Superliminal",
+    "genero": "Logica",
+    "descripcion": "Manipula la perspectiva y la percepción espacial para alterar el tamaño de los objetos y avanzar.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1049410/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1049410/Superliminal/"
+  },
+  {
+    "id": 88,
+    "nombre": "Puyo Puyo Tetris 2",
+    "genero": "Logica",
+    "descripcion": "Combina bloques y gelatinas de colores para crear cadenas y vencer a tus oponentes.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/1259790/header.jpg",
+    "enlace": "https://store.steampowered.com/app/1259790/Puyo_Puyo_Tetris_2/"
+  },
+  {
+    "id": 89,
+    "nombre": "Lemmings",
+    "genero": "Logica",
+    "descripcion": "Guía a pequeñas criaturas hacia la salida asignándoles habilidades para evitar que caigan en trampas.",
+    "imagen": "https://assets-prd.ignimgs.com/2022/02/14/lemmings-sq1-1644881071704.jpg?crop=1%3A1%2Csmart&format=jpg&auto=webp&quality=80",
+    "enlace": "https://www.exarcade.com/es/games/lemmings"
+  },
+  {
+    "id": 90,
+    "nombre": "Human: Fall Flat",
+    "genero": "Logica",
+    "descripcion": "Resuelve rompecabezas basados en física torpe coordinando los movimientos de un personaje gelatinoso.",
+    "imagen": "https://cdn.cloudflare.steamstatic.com/steam/apps/477160/header.jpg",
+    "enlace": "https://store.steampowered.com/app/477160/Human_Fall_Flat/"
+  }
+]

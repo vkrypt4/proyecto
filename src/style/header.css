@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+.dm-sans-uniquifier {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+header{
+    background-image: url("/src/imagenes/banners/¡Bienvenido\ a\ PIXY!.png");
+    background-size: contain;
+    background-position: center;  
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 1920px ;
+    height: 110px ;
+}
+.user-btn {
+    position: absolute;
+    right: 30px;
+    top: 10%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+}
+.user {
+    width: 75px;
+    height: auto;
+}
+.logo{
+    position: absolute;
+    left: 30px;
+    width: 75px;
+    height: auto;
+}
+.header h1,
+.header {
+  margin: 0;
+  padding: 0;
+}
+p{
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.header {
+    color: aliceblue;
+  background-color: #201736; 
+  width: 100%;
+  text-align: center;
+  padding: 20px 0; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

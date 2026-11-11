@@ -1,0 +1,249 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body, #root {
+    width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #16101b;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
+
+.perfil {
+    width: 100%;
+    min-height: 100vh;
+    background: #16101b;
+
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+
+
+.banner {
+    width: 90%;
+    max-width: 1000px;
+    height: 260px;
+
+    margin: 0 auto;
+
+    background-color: #2b2033;
+
+    background-image: url("/src/imagenes/fondos/otro.gif");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    border-radius: 12px 12px 0 0;
+}
+
+
+
+.perfil-principal {
+    position: relative;
+    width: 90%;
+    max-width: 1000px;
+    min-height: 180px;
+    margin: 0 auto;
+    background: #211827;
+
+    border-radius: 0 0 12px 12px;
+
+    padding: 0 30px 30px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+.foto-perfil-container {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    margin-top: -75px;
+    z-index: 5;
+}
+
+.foto-perfil {
+    width: 150px;
+    height: 150px;
+    display: block;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid #211827;
+    background: #2b2033;
+}
+
+
+
+.info-usuario {
+    margin-top: 12px;
+    text-align: center;
+}
+
+.info-usuario h1 {
+    margin: 0;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.info-usuario p {
+    margin-top: 6px;
+
+    color: #aaa;
+
+    font-size: 14px;
+}
+
+.boton-editar {
+    margin-top: 15px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    background: #6f42c1;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+
+.boton-editar:hover {
+    background: #8255d1;
+    transform: translateY(-2px);
+}
+
+.perfil-contenido {
+    width: 90%;
+    max-width: 1000px;
+
+    margin: 25px auto 0;
+
+    display: flex;
+    flex-direction: column;
+
+    gap: 20px;
+}
+
+
+.perfil-card {
+    width: 100%;
+    background: #211827;
+    border-radius: 12px;
+    padding: 25px;
+}
+
+.perfil-card h2 {
+    margin-bottom: 15px;
+    color: white;
+    font-size: 20px;
+    text-align: left;
+}
+
+.perfil-card > p {
+    color: #c5bdca;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.estadisticas {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.estadistica {
+    flex: 1;
+    max-width: 220px;
+    padding: 20px;
+    background: #2b2033;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.estadistica span {
+    display: block;
+    font-size: 25px;
+    margin-bottom: 8px;
+}
+
+.estadistica h3 {
+    color: white;
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+
+.estadistica p {
+    color: #aaa;
+    font-size: 13px;
+}
+
+
+
+.juegos-vacios {
+    width: 100%;
+    padding: 30px;
+    background: #2b2033;
+    border-radius: 10px;
+    text-align: center;
+    color: #aaa;
+}
+
+.juegos-vacios span {
+    display: block;
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+
+
+@media (max-width: 700px) {
+    .perfil {
+        padding-top: 25px;
+    }
+
+    .banner {
+        width: 95%;
+        height: 190px;
+    }
+
+    .perfil-principal {
+        width: 95%;
+    }
+
+    .foto-perfil-container {
+        width: 120px;
+        height: 120px;
+
+        margin-top: -60px;
+    }
+
+    .foto-perfil {
+        width: 120px;
+        height: 120px;
+    }
+
+    .estadisticas {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .estadistica {
+        width: 100%;
+        max-width: none;
+    }
+}

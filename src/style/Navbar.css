@@ -1,0 +1,84 @@
+.buscador { 
+    
+    margin-left: auto; 
+    display: flex; 
+    align-items: center; 
+    background: #edecf018; 
+    border: 1px solid #381F63; 
+    border-radius: 5px; 
+    padding: 4px 6px 4px 15px; 
+ }
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    text-align: center;
+}
+.navbar { 
+    width: 100%;
+    background-color: #381F63; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    padding: 0 25px; 
+    box-sizing: border-box; 
+    position: relative; 
+    z-index: 100; 
+}
+.menu { 
+    display: flex; 
+    align-items: center; 
+    width: 100%;
+} 
+.menu button { 
+    background: none; 
+    border: none; 
+    color: white; 
+    padding: 15px 20px; 
+    cursor: pointer; 
+    font-size: 16px; 
+    font-family: Verdana, sans-serif; 
+} 
+.menu button:hover { 
+    background-color: #ffffff1f; 
+} 
+.menu-btn { 
+    display: none; 
+    background: none; 
+    border: none; 
+    color: white; 
+    font-size: 28px; 
+    cursor: pointer; 
+}  
+@media (max-width: 700px) 
+{ 
+    .navbar { 
+        flex-wrap: wrap; 
+        padding: 10px 20px; 
+    } 
+    .menu-btn { 
+        display: block; 
+    } 
+    .menu { 
+        display: none; 
+        width: 100%; 
+        flex-direction: column; 
+    } 
+    .menu.activo { 
+        display: flex; 
+    } 
+    .menu button { 
+        width: 100%; 
+        text-align: center; 
+    } 
+}

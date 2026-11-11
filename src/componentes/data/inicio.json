@@ -1,0 +1,42 @@
+[
+{
+    "id": 1,
+    "nombre": "Cyberpunk 2077",
+    "genero": "RPG",
+    "descripcion": "RPG de acción en primera persona ambientado en la distópica Night City. Encarnas a V, un mercenario que busca un implante único para alcanzar la inmortalidad mientras explora un mundo abierto lleno de tecnología, mafias y mejoras cibernéticas.",
+    "imagen": "https://www.cyberpunk.net/build/images/edgerunners/about/whatsnew-4229ff06.jpg",
+    "enlace": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/?l=spanish"
+},
+{
+    "id": 2,
+    "nombre": "Marvel Rivals",
+    "genero": "Accion / Disparos",
+    "descripcion": "Hero shooter competitivo en tercera persona donde luchas en combates de 6 contra 6 usando superhéroes y villanos del universo Marvel. Destaca por entornos destructibles y habilidades combinadas entre personajes.",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2767030/44ca658ecf9b75216cb652f709ced7ccde96d915/header.jpg?t=1786093208",
+    "enlace": "https://store.steampowered.com/app/2767030/Marvel_Rivals/"
+},
+{
+    "id": 2,
+    "nombre": "Apex Legends™",
+    "genero": "Accion",
+    "descripcion": "Battle royale gratuito y dinámico ambientado en el universo de Titanfall. Formas escuadrones con personajes llamados Leyendas, cada uno con habilidades únicas, para combatir en un mapa que se reduce progresivamente hasta quedar un solo equipo en pie.",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1172470/6cf04767652d703b6050da84b82cfb1194258d7d/header.jpg?t=1786031871",
+    "enlace": "https://store.steampowered.com/app/1172470/Apex_Legends/"
+},
+{
+    "id": 3,
+    "nombre": "Overwatch®",
+    "genero": "Accion / Disparos",
+    "descripcion": "Hero shooter táctico en primera persona enfocado en el trabajo en equipo de 5 contra 5. Eliges entre una variada plantilla de tanques, atacantes y soportes para cumplir objetivos estratégicos en diversos mapas.",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2357570/7baa151c768868f1fe1d3aeea2467fa1a35fb531/header_alt_assets_22.jpg?t=1786471282",
+    "enlace": "https://store.steampowered.com/app/2357570/Overwatch/"
+},
+{
+    "id": 4,
+    "nombre": "Grand Theft Auto V Enhanced",
+    "genero": "Accion / RPG",
+    "descripcion": "Versión optimizada del clásico juego de acción en mundo abierto. Sigue las historias entrelazadas de tres criminales en Los Santos, ofreciendo libertad total para cumplir misiones, explorar o jugar en su modo multijugador en línea (GTA Online).",
+    "imagen": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+    "enlace": "https://store.steampowered.com/app/3240220/Grand_Theft_Auto_V_Enhanced/"
+}
+]

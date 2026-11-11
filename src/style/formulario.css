@@ -1,0 +1,66 @@
+
+.formulario-subir {
+    width: 90%;
+    max-width: 600px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #15151c;
+    border-radius: 15px;
+    color: white;
+}
+
+.campo-formulario {
+    display: flex;
+    color: white;
+cursor: pointer;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    flex-direction: column;
+    gap: 8px;
+    margin-bottom: 20px;
+}
+
+.campo-formulario input,
+.campo-formulario textarea {
+    color: white;
+cursor: pointer;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 12px;
+    border: 1px solid #381F63;
+    border-radius: 8px;
+    background: #252530;
+    color: white;
+}
+
+.campo-formulario textarea {
+    color: white;
+cursor: pointer;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    min-height: 120px;
+    resize: vertical;
+}
+
+.campo-formulario input[type="color"] {
+    height: 45px;
+    cursor: pointer;
+}
+
+.botones-formulario {
+    color: white;
+cursor: pointer;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.botones-formulario button {
+
+
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 8px;
+    background: #381F63;
+    color: white;
+    cursor: pointer;
+}

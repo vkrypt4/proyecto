@@ -1,0 +1,143 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h2, p{
+    line-height: 100%;
+    font-size: medium;
+}
+body {
+    margin: 0;
+    padding: 0%;
+    background-image: url("/src/imagenes/fondos/fondo333.gif");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.juego-destacado {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 100%;
+    max-width: 1200px;
+    height: 500px;
+    margin: 30px auto;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    align-items: flex-end;
+}
+
+.juego-destacado::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+
+    background: linear-gradient(
+        transparent 20%,
+        rgba(0, 0, 0, 0.85) 100%
+    );
+}
+
+.destacado-info {
+    position: relative;
+    z-index: 2;
+
+    width: 60%;
+    padding: 40px;
+
+    text-align: left;
+}
+
+.destacado-info h1 {
+    margin: 10px 0;
+
+    font-size: 42px;
+    color: white;
+}
+
+.destacado-info p {
+    color: #ddd;
+
+    font-size: 16px;
+    line-height: 1.5;
+
+    margin-bottom: 20px;
+}
+
+.destacado-genero {
+    color: #b77cff;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h3{
+    text-align: center;
+    color:aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.boton-destacado {
+    display: inline-block;
+
+    padding: 12px 25px;
+
+    background: #7c31b9;
+    color: white;
+
+    text-decoration: none;
+
+    border-radius: 8px;
+
+    font-weight: bold;
+
+    transition: 0.2s;
+}
+
+.boton-destacado:hover {
+    background: #9345d0;
+    transform: translateY(-2px);
+}
+
+.titulo-juegos {
+    margin-top: 40px;
+}
+.contenedor-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    width: 100%;
+}
+.info-tarjeta {
+    width: 350px;
+    height: auto;
+    overflow: hidden;
+    background: #15151c;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 15px;
+    color: white;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    transform: translateY(-7px);
+}
+
+.info-tarjeta h3 {
+    color: #ffffff;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+.pfl{
+    width: 150px;
+    height: 150px;
+    display: block;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 6px solid #211827;
+    background: #2b2033;
+    margin: 30px auto;
+}
+.info-tarjeta p {
+    color: #d8d8d8;
+    font-size: 17px;
+    line-height: 1.6;
+    margin: 10px 0;
+}
